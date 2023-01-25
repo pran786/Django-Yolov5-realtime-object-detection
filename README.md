@@ -11,5 +11,8 @@ You look only once (YOLO) is the best and the fast object detection algorithm in
      5. run command python manage.py runserver to run the project. </h4> <br><br>
      
 
-     
+<h3> Here are some screenshot of the working project</h3>
+
+  <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43839155/214655405-a5d893f3-f9d9-4b9b-80d2-64d871420a38.png">
+   
      
