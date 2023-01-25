@@ -12,7 +12,7 @@ You look only once (YOLO) is the best and the fast object detection algorithm in
      
 
 <h3> Here are some screenshot of the working project</h3>
-
-  <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43839155/214655405-a5d893f3-f9d9-4b9b-80d2-64d871420a38.png">
-   
+<div align="center">
+  
+   </div>
      
