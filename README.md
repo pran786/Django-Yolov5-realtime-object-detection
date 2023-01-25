@@ -1,0 +1,1 @@
+# Django-YOLOV5-real-time-object-detection-
